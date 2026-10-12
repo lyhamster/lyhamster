@@ -1,7 +1,8 @@
 # Hi, I'm Lyanne !
 
-Junior Front-End Developer focused on **React & TypeScript**.
-I'm currently looking for my first opportunity as a **Front-End Developper**, with an interest in Full-Stack roles with a strong front-end focus.
+Junior Front-End Developer focused on building web applications with **React & TypeScript**.
+
+I'm currently looking for my first opportunity as a **Front-End Developer**, with an interest in Full-Stack roles with a strong front-end focus.
 
 ## Current project
 
@@ -14,13 +15,13 @@ I'm currently looking for my first opportunity as a **Front-End Developper**, wi
 
 **Stack:** React · TypeScript · Tailwind CSS · React Router · Vite
 
-## Projects
+## Selected projects
 
 **Scalpal** — Medical management dashboard concept.  
-React · Tailwind CSS · TypeScript · React Router · Vite 
+React · TypeScript · Tailwind CSS 
 
 **Paumé Doré** — Pomodoro timer, to-do list & session counters.  
-React · TypeScript · Tailwind CSS · 
+React · TypeScript · Tailwind CSS 
 
 ## Tools
 Git · GitHub · npm · Vercel
