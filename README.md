@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Lyanne 👋
 
-<!--
-**lyhamster/lyhamster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Front-End Developer focused on building responsive and user-friendly web applications with React and TypeScript. 
 
-Here are some ideas to get you started:
+I'm currently looking for my first opportunity as a Front-End Developper, or a Full-Stack role with a strong focus on front-end development. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current project : 
+**STEMNET:** A front-end project for a website dedicated to listing and discovering keyboard stems, with the goal of making them easier to browse and discover.
+I contribute to the development of the site by implementing features and UI improvements based on project requirements.
+
+## What I've worked on :
+
+**Built a sound component with volume controls
+**Updated button styling and integrated pixel-art icons from an icon library
+**Implemented dynamic browser tab titles when switching routes
+
+## What I work with
+
+**Frontend:** React, TypeScript, Tailwind CSS
+**Routing / Build:** React Router, Vite
+**Tools:** Git, GitHub, npm, vercel
+
+## Recent projects
+
+- **Scalpal** - A front-end concept for a medical management dashboard, featuring authentication screens, a dashboard, mailbox and, patient management views.
+- **Paumé Doré** - A playful productivity app featuring a Pomodoro timer, a to-do list, and session counters for work, short breaks, and long breaks. 
+
+## Get in touch
+
+[Email](mailto:lyanne.n619@gmail.com) ·
