@@ -8,12 +8,6 @@ I'm currently looking for my first opportunity as a Front-End Developper, or a F
 **STEMNET:** A front-end project for a website dedicated to listing and discovering keyboard stems, with the goal of making them easier to browse and discover.
 I contribute to the development of the site by implementing features and UI improvements based on project requirements.
 
-## What I've worked on :
-
-**Built a sound component with volume controls
-**Updated button styling and integrated pixel-art icons from an icon library
-**Implemented dynamic browser tab titles when switching routes
-
 ## What I work with
 
 **Frontend:** React, TypeScript, Tailwind CSS
