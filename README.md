@@ -1,24 +1,30 @@
-## Hi, I'm Lyanne 👋
+# Hi, I'm Lyanne !
 
-I'm a Junior Front-End Developer focused on building responsive and user-friendly web applications with React and TypeScript. 
+Junior Front-End Developer focused on **React & TypeScript**.
+I'm currently looking for my first opportunity as a **Front-End Developper**, with an interest in Full-Stack roles with a strong front-end focus.
 
-I'm currently looking for my first opportunity as a Front-End Developper, or a Full-Stack role with a strong focus on front-end development. 
+## Current project
 
-## Current project : 
-**STEMNET:** A front-end project for a website dedicated to listing and discovering keyboard stems, with the goal of making them easier to browse and discover.
-I contribute to the development of the site by implementing features and UI improvements based on project requirements.
+**STEMNET** — A website for listing and discovering keyboard stems.
 
-## What I work with
+**Worked on:**
+- Sound & volume controls
+- Pixel-art UI icons
+- Dynamic browser tab titles
 
-**Frontend:** React, TypeScript, Tailwind CSS
-**Routing / Build:** React Router, Vite
-**Tools:** Git, GitHub, npm, vercel
+**Stack:** React · TypeScript · Tailwind CSS · React Router · Vite
 
-## Recent projects
+## Projects
 
-- **Scalpal** - A front-end concept for a medical management dashboard, featuring authentication screens, a dashboard, mailbox and, patient management views.
-- **Paumé Doré** - A playful productivity app featuring a Pomodoro timer, a to-do list, and session counters for work, short breaks, and long breaks. 
+**Scalpal** — Medical management dashboard concept.  
+React · Tailwind CSS · TypeScript · React Router · Vite 
 
-## Get in touch
+**Paumé Doré** — Pomodoro timer, to-do list & session counters.  
+React · TypeScript · Tailwind CSS · 
 
-[Email](mailto:lyanne.n619@gmail.com) ·
+## Tools
+Git · GitHub · npm · Vercel
+
+## Contact
+
+[Email](mailto:lyanne.n619@gmail.com) · 
