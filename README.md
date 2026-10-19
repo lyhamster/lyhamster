@@ -5,7 +5,3 @@
 ## Tools
 
 Git · GitHub · npm · Vercel · Jira
-
-## Contact
-
-[Email](mailto:lyanne.n619@gmail.com) 
