@@ -1,19 +1,3 @@
-# Hi, I'm Lyanne !
-
-Junior Front-End Developer focused on building web applications with **React & TypeScript**.
-
-I'm currently looking for a **Junior Front-End Developer** opportunity, while remaining open to **Full-Stack roles with a strong front-end focus**.
-
-## Currently working on
-
-**STEMNET:** A website for listing and discovering keyboard switches, where I translate Figma specifications to a React component library, respecting React life-cycle best practices.
-
-**Worked on:**
-
-- Sound & volume controls
-- Pixel-art UI icons
-- Dynamic browser tab titles
-
 ## Stack 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square) ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square) ![React Router Badge](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=flat-square) ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat-square)
